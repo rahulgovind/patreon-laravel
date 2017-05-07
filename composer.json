@@ -1,0 +1,18 @@
+{
+    "name": "rahulgovind/patreon-laravel",
+    "authors": [
+        {
+            "name": "Rahul Govind",
+            "email": "rahulgovind517@gmail.com"
+        }
+    ],
+    "require": {
+        "patreon/patreon": "^0.1.0",
+        "illuminate/support": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PatreonLaravel\\": "src/"
+        }
+    }
+}
