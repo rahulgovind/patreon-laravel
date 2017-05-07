@@ -1,10 +1,10 @@
-<?php namespace Patreon;
+<?php namespace PatreonLaravel;
 
 use Illuminate\Support\ServiceProvider;
 use PatreonLaravel\API\PatreonAPI;
 use PatreonLaravel\OAuth\PatreonOAuth;
 
-class PatreonOAuthServiceProvider extends ServiceProvider
+class PatreonServiceProvider extends ServiceProvider
 {
 
     /*
