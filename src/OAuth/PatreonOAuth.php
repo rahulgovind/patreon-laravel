@@ -2,7 +2,7 @@
 
 use \Config;
 use Illuminate\Http\Request;
-use Patreon\Oauth;
+use Patreon\OAuth;
 
 class PatreonOAuth
 {
